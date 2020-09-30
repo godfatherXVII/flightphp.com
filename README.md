@@ -7,7 +7,7 @@ The website is built with the program [Jekyll](https://jekyllrb.com/).
 
 If you would like to make updates or add language translations, just fork
 the `master` branch and submit a pull request. Do not fork the `gh-pages` branch
-since that will only contain the compiled html from Jekyll.
+since that will only contain the compiled html from Jekyll.This is a super project.
 
 ## Translations
 
